@@ -116,8 +116,6 @@ header button {
   margin-left: 20px;
 }
 #create-blog-form {
-  width: 500px;
-  height: 400px;
 }
 #create-blog-form label {
   display: block;
@@ -136,14 +134,14 @@ header button {
   margin-top: 21px;
 }
 #create-blog-form button {
-  width: 7vw;
-  height: 3vh;
+  width: auto;
+  height: auto;
 }
 .cancel-post {
   display: inline-block;
   color: black;
-  width: 7vw;
-  height: 3vh;
+  width: auto;
+  height: auto;
   border-radius: 2px;
   text-align: center;
   background-color: rgb(239, 239, 239);
@@ -155,8 +153,6 @@ header button {
   cursor: pointer;
 }
 #edit-blog-form {
-  width: 500px;
-  height: 400px;
 }
 #edit-blog-form label {
   display: block;
@@ -175,14 +171,14 @@ header button {
   margin-top: 21px;
 }
 #edit-blog-form button {
-  width: 7vw;
-  height: 3vh;
+  width: auto;
+  height: auto;
 }
 .delete-post {
   display: inline-block;
   color: black;
-  width: 7vw;
-  height: 3vh;
+  width: auto;
+  height: auto;
   border-radius: 2px;
   text-align: center;
   background-color: rgb(239, 239, 239);
